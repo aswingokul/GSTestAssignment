@@ -1,0 +1,19 @@
+{
+    "baseUrl" : "https://www.d3a.io",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions" : {
+        "reporterEnabled" : "mochawesome",
+        "mochawesomeReporterOptions" : {
+            "reportDir" : "cypress/reports/mocha/",
+            "quite" : true,
+            "overwrite" : false,
+            "html" : false,
+            "json" : true
+        }
+    },
+    "testFiles" : "**/*.{feature, features}",
+    "env": {
+        "username": "aswingokul09@gmail.com",
+        "password": "password@1"
+    }
+}
