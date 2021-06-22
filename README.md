@@ -27,7 +27,7 @@ This should run the tests headlessly in an electron browser. Alternatively, you 
 ## Deliverables
 
 After the tests are run, you can see the html reports generated my mochawesome under the `reports` folder.
-There are screenshots of the test failures and a video recording of the entire test is generated under `videos/features` folder. It'll be in the mp4 fornat and can be viewed using any mainstream video players.
+There are screenshots of the test failures and a video recording of the entire test is generated under `videos/features` folder. It'll be in the mp4 format and can be viewed using any mainstream video players.
 
 ## Development
 
